@@ -1,0 +1,32 @@
+_repo: The-House-of-the-Wolf--A-Romance_2041
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Weyman, Stanley John
+    alias: Weyman, Stanley J. (Stanley John)
+    birthdate: 1855
+    deathdate: 1928
+    gutenberg_agent_id: '742'
+    url: http://www.gutenberg.org/2009/agents/742
+    wikipedia: http://en.wikipedia.org/wiki/Stanley_J._Weyman
+description: Get set for a thrill ride of supernatural proportions with Stanley J.
+  Weyman's The House of the Wolf. Though billed as a romance, this suspenseful tale
+  is packed with action and adventure that will appeal to a broad audience. Whether
+  you're in it for the werewolf scenes or the melting looks and passionate embraces
+  of the leading hero and heroine, it's a can't-miss read for fans of classic action-adventure
+  romances.
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Saint Bartholomew''s Day, Massacre of, France, 1572 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The House of the Wolf: A Romance'
+url: http://www.gutenberg.org/ebooks/2041
