@@ -1,5 +1,8 @@
 _repo: The-House-of-the-Wolf--A-Romance_2041
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Weyman, Stanley John
@@ -15,6 +18,8 @@ description: Get set for a thrill ride of supernatural proportions with Stanley 
   you're in it for the werewolf scenes or the melting looks and passionate embraces
   of the leading hero and heroine, it's a can't-miss read for fans of classic action-adventure
   romances.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2041#The-House-of-the-Wolf--A-Romance
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2000-01-01'
 gutenberg_type: Text
